@@ -3,7 +3,7 @@ const projectData = [
     projectImage: 'src/assets/images/petAdoptionScreenshot.png',
     projectName: 'Pet Adoption',
     projectDescription:
-      'This project uses HTML and CSS, Bootstrap and vanilla javaScript to a pet adoption agency. When you click on each button a function filters an array to only show the pets that you have selected.',
+      'This project uses HTML and CSS, Bootstrap and vanilla javaScript. When you click on each button a function filters an array to only show the pets that you have selected.',
     projectLink: 'https://wendellp-petadoption.netlify.app',
     projectGithub: 'https://github.com/wppattonjr/pet-adoption',
   },

@@ -1,6 +1,6 @@
 const buildProjectCard = (item) => {
   const domstring = `<div class="card" style="width: 25rem;">
-  <img src="${item.projectImage}" class="card-img-top" alt="...">
+  <img src="${item.projectImage}" class="card-img-top" alt="screenshot of project">
   <div class="card-body">
     <h5 class="card-title">${item.projectName}</h5>
     <p class="card-text">${item.projectDescription}</p>
