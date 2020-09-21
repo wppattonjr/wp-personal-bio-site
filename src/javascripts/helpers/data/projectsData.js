@@ -1,6 +1,6 @@
 const projectData = [
   {
-    projectImage: 'src/assets/images/Pet Adoption Screenshot.png',
+    projectImage: 'src/assets/images/petAdoptionScreenshot.png',
     projectName: 'Pet Adoption',
     projectDescription:
       'This project uses HTML and CSS, Bootstrap and vanilla javaScript to a pet adoption agency. When you click on each button a function filters an array to only show the pets that you have selected.',
@@ -8,7 +8,7 @@ const projectData = [
     projectGithub: 'https://github.com/wppattonjr/pet-adoption',
   },
   {
-    projectImage: 'src/assets/images/Sorting Hat Screen Shot.png',
+    projectImage: 'src/assets/images/sortingHatScreenshot.png',
     projectName: 'Sorting Hat',
     projectDescription:
       'Sorting Hats is a single page application used for sorting students of Hogwarts into their "Hogwarts House" at random.',
@@ -16,7 +16,7 @@ const projectData = [
     projectGithub: 'https://github.com/wppattonjr/sorting-hats',
   },
   {
-    projectImage: 'src/assets/images/Spill The Jeans Screenshot.png',
+    projectImage: 'src/assets/images/spillTheJeansScreenshot.png',
     projectName: 'Pants Group Project',
     projectDescription:
       'This website showcases the products available from a new jean company for women, called Spill the Jeans. Therea are 4 pages, each with a specific purpose.',
