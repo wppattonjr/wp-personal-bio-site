@@ -1,9 +1,72 @@
-@import "~bootstrap/scss/bootstrap";
-@import "~@fortawesome/fontawesome-free/css/all.min.css";
+@import '~bootstrap/scss/bootstrap';
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+* {
+  font-family: 'Verela Round', sans-serif;
+  box-sizing: border-box;
+}
+
+h2 {
+  margin: 0;
+}
+
+.social-media-icons i {
+  font-size: 30px;
+  padding-top: 30px;
+  margin: 10px;
+
+}
 
 body {
-  background-color: antiquewhite;
-  color: brown;
+  color: black;
   text-align: center;
-  margin-top: 100px;
+}
+
+#about-me-header {
+  background-color: rgb(91, 192, 190);
+  width: 100vw;
+}
+.bio-section {
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: 35px;
+  }
+  #projects-header {
+    background-color: rgb(91, 192, 190);
+    width: 100vw;
+  }
+  #projects-container {
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: rgb(49, 65, 114);
+    padding: 35px;
+  }
+
+  #tech-header {
+    background-color: rgb(91, 192, 190);
+    width: 100vw;
+  }
+  
+  #tech-container {
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: 35px;
+  }
+
+#headshot {
+  border-radius: 50%;
+  float: left;
+  width: 20%;
+  height: auto;
+}
+
+.tech-list li {
+  display: inline;
+  flex-direction: row;
+  padding-right: 5px;
+  
+  
 }
