@@ -1,12 +1,20 @@
+import bootstrapLogo from '../../../assets/images/bootstrapLogo.png';
+import css from '../../../assets/images/css.png';
+import js from '../../../assets/images/js.png';
+import jquery from '../../../assets/images/jquery.png';
+import html5 from '../../../assets/images/html5.png';
+import github from '../../../assets/images/github.png';
+import sass from '../../../assets/images/sass.png';
+
 const techIcons = [
   {
-    HTMLIcon: 'src/assets/images/html5.png',
-    CSSIcon: 'src/assets/images/css.png',
-    JavaScriptIcon: 'src/assets/images/js.png',
-    jQueryIcon: 'src/assets/images/jquery.png',
-    BootstrapIcon: 'src/assets/images/bootstrap_logo.png',
-    GitHubIcon: 'src/assets/images/github.png',
-    SassIcon: 'src/assets/images/sass.png',
+    HTMLIcon: `${html5}`,
+    CSSIcon: `${css}`,
+    JavaScriptIcon: `${js}`,
+    jQueryIcon: `${jquery}`,
+    BootstrapIcon: `${bootstrapLogo}`,
+    GitHubIcon: `${github}`,
+    SassIcon: `${sass}`,
   }
 ];
 
