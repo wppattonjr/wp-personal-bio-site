@@ -23,7 +23,7 @@ const projectData = [
     projectImage: `${spillTheJeansScreenshot}`,
     projectName: 'Pants Group Project',
     projectDescription:
-      'This website showcases the products available from a new jean company for women, called Spill the Jeans. Therea are 4 pages, each with a specific purpose.',
+      'This website showcases the products available from a new jean company for women, called Spill the Jeans. There are 4 pages, each with a specific purpose.',
     projectLink: 'https://spillthejeans.netlify.app/index.html',
     projectGithub:
       'https://github.com/wppattonjr/pants-group-project-coolcoders3',
