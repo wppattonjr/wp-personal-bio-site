@@ -26,7 +26,7 @@ const projectData = [
       'This website showcases the products available from a new jean company for women, called Spill the Jeans. Therea are 4 pages, each with a specific purpose.',
     projectLink: 'https://spillthejeans.netlify.app/index.html',
     projectGithub:
-      'https://github.com/nss-evening-cohort-13/pants-group-project-coolcoders3',
+      'https://github.com/wppattonjr/pants-group-project-coolcoders3',
   },
 ];
 
