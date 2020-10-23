@@ -16,11 +16,13 @@ const navBar = () => {
         <li class="nav-item">
           <a class="nav-link" href="#tech-container">Technologies Used</a>
         </li>
-       </ul>
-      <ul class="social-media-icons">
-        <a href="https://www.linkedin.com/in/wendellpattonjr/" target="_blank"><i class="fab fa-linkedin"></i></a>
-        <a href="https://github.com/wppattonjr" target="_blank"><i class="fab fa-github"></i></a>
-        <a href="https://twitter.com/wendellcodes" target="_blank"><i class="fab fa-twitter"></i></a>
+      </ul>
+      <ul class="navbar-nav ml-auto">
+        <li id="social-media-icons">
+          <a href="https://www.linkedin.com/in/wendellpattonjr/" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="https://github.com/wppattonjr" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://twitter.com/wendellcodes" target="_blank"><i class="fab fa-twitter"></i></a>
+        </li>
       </ul>
       <span class="navbar-text">
       </span>

@@ -1,3 +1,4 @@
+import 'bootstrap';
 import '../styles/main.scss';
 import nav from './navBar/navBar';
 import mainImage from './headShot/headShot';
