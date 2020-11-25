@@ -11,20 +11,13 @@ h2 {
   margin: 0;
 }
 
-#social-media-icons a {
-  font-size: 30px;
-  padding-top: 30px;
-  margin: 10px;
-
-}
-
 body {
   color: black;
   text-align: center;
 }
 
 #about-me-header {
-  background-color: rgb(91, 192, 190);
+  background-color: rgb(0, 126,167);
   width: 100vw;
 }
 .bio-section {
@@ -34,39 +27,98 @@ body {
     padding: 35px;
   }
   #projects-header {
-    background-color: rgb(91, 192, 190);
+    background-color: rgb(0, 126,167);
     width: 100vw;
   }
   #projects-container {
-    width: 100vw;
-    box-sizing: border-box;
-    background-color: rgb(49, 65, 114);
-    padding: 35px;
-  }
-
-  #tech-header {
-    background-color: rgb(91, 192, 190);
-    width: 100vw;
-  }
-  
-  #tech-container {
     width: 100vw;
     box-sizing: border-box;
     background-color: rgb(255, 255, 255);
     padding: 35px;
   }
 
-#headshot {
+  #tech-header {
+    background-color: rgb(0, 126,167);
+    width: 100vw;
+  }
+
+  #tech-container {
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: 35px;
+  }
+  
+#headshot-image {
   border-radius: 50%;
   float: left;
   width: 20%;
   height: auto;
 }
 
+.fa-linkedin {
+  color: rgb(0, 126,167);
+}
+
+.fa-github {
+  color: rgb(0, 126,167);
+}
+
+.fa-twitter {
+  color: rgb(0, 126,167)
+}
+
 .tech-list li {
   display: inline;
   flex-direction: row;
-  padding-right: 5px;
-  
-  
+  padding-right: 30px;
+}
+
+.bootstrap-logo {
+  width: 10%;
+}
+
+.js-logo {
+  width: 10%
+}
+
+.react-logo {
+  width: 10%;
+}
+
+.github-logo {
+  width: 15%
+}
+
+.jquery-logo {
+  width: 15%
+}
+
+.html5-logo {
+  width: 15%;
+}
+
+.css3-logo {
+  width: 18%;
+}
+
+.sass-logo {
+  width: 15%
+}
+
+.firebase-logo {
+  width: 15%;
+}
+
+.netlify-logo {
+  width: 15%;
+}
+
+.vscode-logo {
+  width: 15%;
+}
+
+.github-button {
+  background-color: rgb(0, 52, 89);
+  color: rgb(255, 255, 255);
 }
