@@ -1,5 +1,5 @@
 
-[Wendell Codes](https://wendellcodes.com/)
+[Wendell Codes - Live Site Custom URL](https://wendellcodes.com/)
 
 ![Personal Bio Site Screenshot](https://user-images.githubusercontent.com/63669713/100273124-e78aed80-2f21-11eb-870f-b6da9156c5d2.png)
 
